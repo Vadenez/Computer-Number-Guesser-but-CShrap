@@ -9,3 +9,5 @@ The only input the computer gets back is if it got the number correct or not, an
 or lower. From this the program guesses untill it gets it right.
 
 This was coded in 2021
+
+[Test this code](https://onlinegdb.com/F4LUkQHv0)
