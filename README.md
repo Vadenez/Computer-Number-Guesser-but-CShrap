@@ -1,5 +1,5 @@
 # Computer-Number-Guesser-but-CShrap
-[![C#](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+Coded in C#
 
 This is a game where your computer will try and guess your value. Same thing as a program that
 I had created in C++, but in C#. You give the console a maximum and minimum value, then you give
